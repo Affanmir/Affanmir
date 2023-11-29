@@ -5,6 +5,8 @@
 - Coderust: Hacking the Coding Interview [Educative]
 - AWS Technical essentials [Coursera]
 - Google Cloud Fundamentals: Core Infrastructure [Coursera]
-- 
+- DevOps Fundamentals
+- Become a Kubernetes Professional
+- Terraform with AWS Mastery
 
 
