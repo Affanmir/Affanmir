@@ -37,10 +37,10 @@ contribute to the open-source infrastructure tooling I depend on.
 ## Stack
 
 **Languages**: Python, Go, TypeScript, Bash  
-**Infrastructure**: GCP Cloud Run, Kubernetes, Terraform, Docker  
+**Infrastructure**: Kubernetes, Terraform, Docker, ArgoCD, Hashicorp Vault, AWS, GCP  
 **Data**: PostgreSQL, Redis, Elasticsearch, ClickHouse, BigQuery  
-**Observability**: OpenTelemetry, Grafana, Sentry  
-**Build**: Pants (Python), pnpm (Nuxt 3), GitHub Actions
+**Observability**: OpenTelemetry, Grafana, Sentry, ELK, Honeycomb, ClickStack  
+**Build**: Pants (Python), pnpm (Nuxt 3), GitHub Actions, 
 
 ---
 
